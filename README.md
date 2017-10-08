@@ -44,7 +44,7 @@ php index.php?input=array
 php index.php?input=json
 php index.php?input=api
 ```
-![Alt text](response.jpg?raw=true "API REQUEST")
+![Alt text](response.png?raw=true "API REQUEST")
 
 ## Output in jSON
 If you need output as text you can just use index.php, but if jSON is required, please add output parameter as below
