@@ -8,7 +8,6 @@
  * @category     Global{M} - TEST PROJECT 
  * @author       Shahbaz Ali <shahbaz.pucit@gmail.com>
  */
-echo "<pre>";
 require './Transportation.php';
 $boardingCardStack = array();
 // Checking Input Method 
