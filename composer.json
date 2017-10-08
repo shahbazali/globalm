@@ -1,10 +1,10 @@
 {
     "name": "vendor/globalm",
-    "description": "Description of project globalm.",
+    "description": "Task from Global{M}. Trip Sort",
     "authors": [
         {
-            "name": "SHAHBAZ",
-            "email": "your@email.here"
+            "name": "SHAHBAZ Ali",
+            "email": "shahbaz.pucit@gmail.com"
         }
     ],
     "require": {}
