@@ -1,0 +1,11 @@
+{
+    "name": "vendor/globalm",
+    "description": "Description of project globalm.",
+    "authors": [
+        {
+            "name": "SHAHBAZ",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {}
+}
