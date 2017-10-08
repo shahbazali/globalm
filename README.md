@@ -9,8 +9,16 @@ If you don't have composer, you can get it from [Composer](https://getcomposer.o
 http://shahbazali.net/globalm/
 
 ## LIVE DEMO
-No Input / Output method define : [Click Here](http://shahbazali.net/globalm/)
-Output as jSON : [Click Here](http://shahbazali.net/globalm?output=json)
+No Input / Output method define :
+```
+http://shahbazali.net/globalm/
+```
+
+Output as jSON :
+```
+http://shahbazali.net/globalm?output=json
+```
+
 
 
 ## Run the application
